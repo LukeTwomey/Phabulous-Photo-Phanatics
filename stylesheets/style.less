@@ -5,6 +5,12 @@
 @header-height: 100px;
 @mainFont: 'Source Sans Pro', sans-serif;
 
+@font-face{
+  font-family:"Geo Sans Light";
+  src:url("/fonts/geosanslight.woff2") format("woff2");
+  src:url("/fonts/geosanslight.woff") format("woff")
+}
+
 /**************************************************************
 ******************         MIXINS          ********************
 **************************************************************/
@@ -185,7 +191,7 @@ strong, bold{
 **************************************************************/
 
 header{
-	background: #bad0e2;
+	background: white;
     font-size: 1rem;
     height: @header-height;
     position: fixed;
@@ -199,6 +205,16 @@ header{
     -moz-transition: 0.5s;
     -webkit-transition: 0.5s;
     transition: 0.5s;
+}
+
+
+header h1{
+    font-family: 'Sansita One', cursive;
+    font-size: 1.5em;
+    width: 100%;
+    text-align: center;
+    padding: 1em;
+    color: black;
 }
 
 .menu{
