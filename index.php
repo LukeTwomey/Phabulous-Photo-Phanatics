@@ -18,6 +18,11 @@
                     <img src="/images/brick-wall-s.jpg" srcset="/images/brick-wall-m.jpg 640w, /images/brick-wall-l.jpg 1200w" alt="Model posing in front of brick wall"/>
                     <h2>Modelling</h2>
                 </div>
+
+                <div class="weddings tile">
+                    <img src="/images/wedding-dress-s.jpg" srcset="/images/wedding-dress-m.jpg 640w, /images/wedding-dress-l.jpg 1200w" alt="Wedding dress"/>
+                    <h2>Weddings</h2>
+                </div>
             </div>
 
             <?php include("footer.php"); ?>
