@@ -12,15 +12,7 @@
 			<?php include("header.php"); ?>
 
             <div class="page-content index">
-
-
-
-                <div class="cool-image-container">
-                    <img src="/images/text-over-image-3x.jpg" alt="New York Skyline"/>
-                </div>
-
-
-
+                <img src="/images/holding-camera.jpg" srcset="/images/holding-camera-m.jpg 640w, /images/holding-camera-l.jpg 1200w" alt="Luke Twomey" />
             </div>
 
             <?php include("footer.php"); ?>
