@@ -12,7 +12,8 @@
 			<?php include("header.php"); ?>
 
             <div class="page-content index">
-                <img src="/images/holding-camera.jpg" srcset="/images/holding-camera-m.jpg 640w, /images/holding-camera-l.jpg 1200w" alt="Luke Twomey" />
+                <img src="/images/holding-camera-s.jpg" srcset="/images/holding-camera-m.jpg 640w, /images/holding-camera-l.jpg 1200w" alt="Man holding camera" />
+                <img src="/images/brick-wall-s.jpg" srcset="/images/brick-wall-m.jpg 640w, /images/brick-wall-l.jpg 1200w" alt="Model posing in front of brick wall"/>
             </div>
 
             <?php include("footer.php"); ?>
