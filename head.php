@@ -18,8 +18,3 @@
 
 <!--<link rel="stylesheet" href="/stylesheets/style.css" type="text/css" />-->
 <link rel="stylesheet" href="/stylesheets/jquery.fancybox.css" type="text/css" media="screen" />
-
-<link href='https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,200,300,300italic,400italic,200italic,600,600italic,700,700italic,900,900italic' rel='stylesheet' type='text/css'>
-
-<link href='https://fonts.googleapis.com/css?family=Rock+Salt' rel='stylesheet' type='text/css'>
-<link href='https://fonts.googleapis.com/css?family=Sansita+One' rel='stylesheet' type='text/css'>
