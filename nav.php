@@ -1,6 +1,7 @@
 <nav>
     <ul>
-        <li><a href="page1.php">Menu Item 1</a></li>
+        <li><a href="/">Home</a></li>
+<!--
         <li class="parent"><a href="page2.php">Menu Item 2</a>
             <ul>
                 <li class="parent"><a href="child-of-menu-item-2.php">Child 2</a>
@@ -13,6 +14,11 @@
                 <li><a href="another-child-of-menu-item-2.php">Child 3</a></li>
             </ul>
         </li>
-        <li><a href="page3.php">Menu Item 3</a></li>
+-->
+        <li><a href="fashion.php">Fashion</a></li>
+        <li><a href="weddings.php">Weddings</a></li>
+        <li><a href="portrait.php">Portrait</a></li>
+        <li><a href="about.php">About</a></li>
+        <li><a href="contact.php">Contact</a></li>
     </ul>
 </nav>
