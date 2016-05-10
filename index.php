@@ -23,6 +23,13 @@
                     <img src="/images/wedding-dress-s.jpg" srcset="/images/wedding-dress-m.jpg 640w, /images/wedding-dress-l.jpg 1200w" alt="Wedding dress"/>
                     <h2>Weddings</h2>
                 </div>
+
+                <div class="portrait tile">
+                    <img src="/images/portrait-s.jpg" srcset="/images/portrait-m.jpg 640w, /images/portrait-l.jpg 1200w" alt="Man posing for portrait photo"/>
+                    <h2>Portrait</h2>
+                </div>
+
+
             </div>
 
             <?php include("footer.php"); ?>
