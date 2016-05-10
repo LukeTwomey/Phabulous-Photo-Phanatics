@@ -1,4 +1,11 @@
 <nav>
+    <ul class="social">
+        <li>
+            <img src="images/icons/twitter-cream.png"/>
+            <img src="images/icons/facebook-cream.png"/>
+            <img src="images/icons/instagram-cream.png"/>
+        </li>
+    </ul>
     <ul>
         <li><a href="/">Home</a></li>
 <!--
