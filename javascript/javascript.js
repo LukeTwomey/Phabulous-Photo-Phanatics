@@ -44,30 +44,41 @@ $(document).ready(function () {
 
     /*****************   NAV   *****************/
 
-
-    /* When you tap the button in the mobile navigation, toggle the child menu */
-    $(".parent").click(function(e){
-        e.stopPropagation();
-
-        $(this).children("ul").slideToggle();
-
-        /* For some reason the default BC javascript to check the "selected" state of a menu item is removing classes set by jquery.
-           Therefore need to get creative. Check the background image currently in use, and if it's "submenu.png" change it to "submenu-close.png" when clicked */
-        var backgroundImage = $(this).css("backgroundImage");
-        var submenuOpenImage = "submenu.png";
-
-        if(backgroundImage.indexOf(submenuOpenImage) != -1) {
-            $(this).css("backgroundImage", "url(/images/icons/submenu-close.png)");
-        } else {
-            $(this).css("backgroundImage", "url(/images/icons/submenu.png)");
-        }
+    /* show or hide submenus */
+    $(".open-submenu").click(function(){
+        $(this).siblings("ul").addClass("slide-left");
     });
 
-    /* To prevent the click event propogating to the parent li, and starting to drop down the child menu
-       just before the link is navigated to - you need to stop propogation/bubbling when that link is clicked */
-	$(".parent a").click(function(e) {
-       e.stopPropagation();
-    })
+    $(".close-submenu").click(function(){
+        $(this).closest("ul").removeClass("slide-left");
+    });
+
+
+
+
+    /* When you tap the button in the mobile navigation, toggle the child menu */
+//    $(".parent").click(function(e){
+//        e.stopPropagation();
+//
+//        $(this).children("ul").slideToggle();
+//
+//        /* For some reason the default BC javascript to check the "selected" state of a menu item is removing classes set by jquery.
+//           Therefore need to get creative. Check the background image currently in use, and if it's "submenu.png" change it to "submenu-close.png" when clicked */
+//        var backgroundImage = $(this).css("backgroundImage");
+//        var submenuOpenImage = "submenu.png";
+//
+//        if(backgroundImage.indexOf(submenuOpenImage) != -1) {
+//            $(this).css("backgroundImage", "url(/images/icons/submenu-close.png)");
+//        } else {
+//            $(this).css("backgroundImage", "url(/images/icons/submenu.png)");
+//        }
+//    });
+//
+//    /* To prevent the click event propogating to the parent li, and starting to drop down the child menu
+//       just before the link is navigated to - you need to stop propogation/bubbling when that link is clicked */
+//	$(".parent a").click(function(e) {
+//       e.stopPropagation();
+//    })
 
 
     /* Make it so you can single tap on touch device to open dropdown menu without automatically navigating to page */

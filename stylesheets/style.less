@@ -260,6 +260,10 @@ header{
 ******************           NAV            *******************
 **************************************************************/
 
+nav ul li.parent ul.slide-left{
+    left: 0;
+}
+
 .slideRight{
     left: 16.5em!important;
 }
@@ -268,19 +272,34 @@ header{
     left: 33em!important;
 }
 
-nav{
+nav,
+nav ul li.parent ul{
     list-style: none;
     background: @green;
     width: 16.5em;
     height: 100%;
     position: fixed;
     top: 0;
-    left: 0;
     bottom: 0;
 }
 
-nav ul li a{
+nav{
+    left: 0;
+}
+
+nav ul li{
     border-bottom: 1px solid #afaf84;
+    position: relative;
+}
+
+nav ul li.parent ul{
+    left: 16.5em;
+    top: 70px;
+    z-index: 1;
+}
+
+nav ul li a{
+    .SmoothHover(0.2s);
     display: block;
     font-size: 1.4em;
     padding: 1em;
@@ -294,7 +313,7 @@ nav ul li a:visited{
 }
 
 nav ul li a:hover{
-    color: @grey-hover;
+    background: #afaf84;
 }
 
 nav ul li a:active{
@@ -311,6 +330,36 @@ nav .social li img{
     display: inline-block;
     margin: 0 0.2em;
     width: 30px;
+}
+
+.open-submenu,
+.close-submenu{
+    .SmoothHover(0.2s);
+    background: @green;
+    border-bottom: 1px solid red;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    width: 60px;
+    border: none;
+    border-left: 1px solid #afaf84;
+    border-radius: 0;
+    padding: 0;
+    color: @cream;
+}
+
+.open-submenu{
+    right: 0;
+}
+
+.close-submenu{
+    left: 0;
+}
+
+.open-submenu:hover,
+.close-submenu:hover{
+    background: #afaf84;
+    color: @cream;
 }
 
 /**************************************************************
