@@ -35,6 +35,13 @@
                     <h2>Portrait</h2>
                 </div>
 
+                <div class="street tile">
+                    <a href="street.php"></a>
+                    <div class="shadow-layer"></div>
+                    <img src="/images/street-s.jpg" srcset="/images/street-m.jpg 640w, /images/street-l.jpg 1200w" alt="Motion blurred taxis in New York"/>
+                    <h2>Street</h2>
+                </div>
+
 
             </div>
 

@@ -1,4 +1,5 @@
 <nav>
+    <div class="nav-cover"></div>
     <ul class="social">
         <li>
             <a href="https://twitter.com/LukeDTwomey"><img src="images/icons/twitter-cream.png"/></a>
