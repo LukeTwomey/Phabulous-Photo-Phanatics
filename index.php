@@ -15,7 +15,7 @@
                 <img src="/images/holding-camera-s.jpg" srcset="/images/holding-camera-m.jpg 640w, /images/holding-camera-l.jpg 1200w" alt="Man holding camera" />
 
                 <div class="text-block studio">
-                    <h1><strong>Phabulous Photo Phanatics</strong><br/> are the premier photography service provider in the UK.</h1>
+                    <h1><strong><span>Phabulous Photo Phanatics</span></strong><br/> are the premier photography service provider in the UK.</h1>
                 </div>
 
                 <div class="fashion tile">
