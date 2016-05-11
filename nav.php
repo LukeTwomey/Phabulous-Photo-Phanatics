@@ -1,9 +1,9 @@
 <nav>
     <ul class="social">
         <li>
-            <img src="images/icons/twitter-cream.png"/>
-            <img src="images/icons/facebook-cream.png"/>
-            <img src="images/icons/instagram-cream.png"/>
+            <a href="https://twitter.com/LukeDTwomey"><img src="images/icons/twitter-cream.png"/></a>
+            <a href="https://www.facebook.com/LukeDTwomey"><img src="images/icons/facebook-cream.png"/></a>
+            <a href="https://www.instagram.com/?hl=en"><img src="images/icons/instagram-cream.png"/></a>
         </li>
     </ul>
 

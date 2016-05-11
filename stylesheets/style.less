@@ -260,7 +260,7 @@ header{
 ******************           NAV            *******************
 **************************************************************/
 
-nav ul li.parent ul.slide-left{
+nav ul:not(.social) li.parent ul.slide-left{
     left: 0;
 }
 
@@ -273,7 +273,7 @@ nav ul li.parent ul.slide-left{
 }
 
 nav,
-nav ul li.parent ul{
+nav ul:not(.social) li.parent ul{
     list-style: none;
     background: @green;
     width: 16.5em;
@@ -287,18 +287,18 @@ nav{
     left: 0;
 }
 
-nav ul li{
+nav ul:not(.social) li{
     border-bottom: 1px solid #afaf84;
     position: relative;
 }
 
-nav ul li.parent ul{
+nav ul:not(.social) li.parent ul{
     left: 16.5em;
     top: 70px;
     z-index: 1;
 }
 
-nav ul li a{
+nav ul:not(.social) li a{
     .SmoothHover(0.2s);
     display: block;
     font-size: 1.4em;
@@ -307,16 +307,16 @@ nav ul li a{
     width: 100%;
 }
 
-nav ul li a:link,
-nav ul li a:visited{
+nav ul:not(.social) li a:link,
+nav ul:not(.social) li a:visited{
     color: @grey;
 }
 
-nav ul li a:hover{
+nav ul:not(.social) li a:hover{
     background: #afaf84;
 }
 
-nav ul li a:active{
+nav ul:not(.social) li a:active{
     color: @orange;
 }
 
