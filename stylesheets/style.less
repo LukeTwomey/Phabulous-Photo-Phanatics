@@ -398,6 +398,28 @@ nav .social li img{
     right: 0;
 }
 
+.tile .shadow-layer,
+.tile a{
+    .SmoothHover(0.25s);
+    background: transparent;
+    display: block;
+    height: 100%;
+    width: 100%;
+    position: absolute;
+}
+
+.tile a{
+    z-index: 2;
+}
+
+.shaodow-layer{
+    z-index: 1;
+}
+
+.tile a:hover + .shadow-layer{
+    background: rgba(0,0,0,0.25);
+}
+
 /**************************************************************
 ******************         FOOTER           *******************
 **************************************************************/
