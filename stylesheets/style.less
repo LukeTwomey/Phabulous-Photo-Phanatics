@@ -11,6 +11,7 @@
 @grey-hover: #64645c;
 @blue: #9FB4CC;
 @orange: #DB4105;
+@orange-hover: #e46a3b;
 
 /**************************************************************
 ****************           FONTS            *******************
@@ -176,24 +177,26 @@ input {
     -webkit-appearance: none;
 }
 
-button, #catwebformbutton{
-    border-radius: 5px;
-    border-style: solid;
-    border-width: 1px;
-    border-color: #000;
-    background: none;
+button,
+.button{
+    background: #DB4105;
+    border: none;
+    border-radius: 3px;
+    color: #33332D;
     cursor: pointer;
-    font-family: @geo;
-    font-size: 1.7em;
+    display: inline-block;
+    font-family: 'Geo Sans light', cursive;
+    font-size: 1.2em;
     font-weight: 600;
-    padding: 0.3em 1.5em 0.2em 1.5em;
-    .SmoothHover(1s);
+    margin-top: 1em;
+    padding: 0.3em 1.5em 0.3em 1.5em;
     text-transform: lowercase;
+    transition: color 1s ease-in-out, background 0.25s ease-in-out;
 }
 
-button:hover, #catwebformbutton:hover{
-    background: grey;
-    color: red;
+button:hover,
+.button:hover{
+    background: @orange-hover;
 }
 
 em{
@@ -348,6 +351,7 @@ nav .social li img{
     position: absolute;
     top: 0;
     bottom: 0;
+    margin-top: 0;
     width: 60px;
     border: none;
     border-left: 1px solid #afaf84;
