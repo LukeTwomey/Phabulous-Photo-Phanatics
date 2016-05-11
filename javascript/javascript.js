@@ -6,7 +6,7 @@ $(document).ready(function () {
     function toggleMenu(){
         $(".backToTop").toggleClass("slideRightForBackToTop");
         $(".site-wrap, header").toggleClass("slideRight");
-        $(".navCover").toggleClass("slideRight");
+        $(".nav-cover").toggleClass("slideRight");
         $("#logo").toggleClass("slideLeft");
 
         $("body, #fouc").toggleClass("preventScroll");
