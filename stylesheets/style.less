@@ -102,7 +102,7 @@ html{
 
 body{
     background: #fff;
-    color: @grey;
+    color: @cream;
     font-family: @geo;
     overflow-x: hidden;
     text-rendering: optimizeLegibility;
@@ -132,22 +132,23 @@ body{
 }
 
 h1, h2, p{
+    line-height: 1.2em;
     margin-bottom: 1em;
 }
 
 h1{
     color: @cream;
     font-size: 1.4em;
-    line-height: 1.2em;
     margin-bottom: 0;
 }
 
 h1 span{
+    color: @cream;
     font-size: 1em;
 }
 
 h2{
-    font-size: 1.5em;
+    font-size: 1.25em;
 }
 
 p, ul, ol, blockquote, figcaption{
@@ -407,6 +408,13 @@ nav .social li img{
     background-image: url(../images/studio-background.jpg);
     background-size: cover;
     background-position: center center;
+}
+
+.text-block h1,
+.text-block h2,
+.text-block h3,
+.text-block p{
+    margin-bottom: 0;
 }
 
 /**************************************************************

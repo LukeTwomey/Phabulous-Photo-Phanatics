@@ -15,7 +15,7 @@
                 <img src="/images/holding-camera-s.jpg" srcset="/images/holding-camera-m.jpg 640w, /images/holding-camera-l.jpg 1200w" alt="Man holding camera" />
 
                 <div class="text-block studio">
-                    <h1><strong><span>Phabulous Photo Phanatics</span></strong><br/> are the premier photography service provider in the UK.</h1>
+                    <h1><strong><span>Phabulous Photo Phanatics</span></strong><br/> are the premier photography service provider in the UK</h1>
                     <a href="about.php" class="button">Find Out More</a>
                 </div>
 
@@ -31,6 +31,11 @@
                     <div class="shadow-layer"></div>
                     <img src="/images/wedding-dress-s.jpg" srcset="/images/wedding-dress-m.jpg 640w, /images/wedding-dress-l.jpg 1200w" alt="Wedding dress"/>
                     <h2>Weddings</h2>
+                </div>
+
+                <div class="text-block studio">
+                    <h2>Our professional services are trusted by thousands, to deliver high quality, unbeatable results</h2>
+                    <a href="about.php" class="button">View Our Work</a>
                 </div>
 
                 <div class="portrait tile">
