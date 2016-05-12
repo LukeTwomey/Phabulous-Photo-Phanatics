@@ -33,7 +33,7 @@
                     <h2>Weddings</h2>
                 </div>
 
-                <div class="text-block studio">
+                <div class="text-block camera">
                     <h2>Our professional services are trusted by thousands, to deliver high quality, unbeatable results</h2>
                     <a href="about.php" class="button">View Our Work</a>
                 </div>
