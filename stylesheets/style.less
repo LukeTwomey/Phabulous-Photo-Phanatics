@@ -213,7 +213,7 @@ strong, bold{
 **************************************************************/
 
 header{
-	background: rgba(0, 0, 0, 0.5);
+	background: transparent;
     font-size: 1rem;
     height: @header-height;
     position: fixed;
@@ -391,9 +391,9 @@ nav .social li img{
 
 .page-content{
     .Clearfix;
-    background: #dedede;
+    background: @grey;
     font-size: 1rem;
-//    margin-top: @header-height;
+    padding-top: @header-height;
     z-index: 0;
 }
 
@@ -466,6 +466,14 @@ nav .social li img{
 /**************************************************************
 ******************         INDEX           *******************
 **************************************************************/
+
+.index.page-content{
+    padding-top: 0;
+}
+
+.index-site.site-wrap header{
+    background: rgba(0, 0, 0, 0.5);
+}
 
 .tile{
     float: left;
@@ -600,6 +608,14 @@ footer{
 
     .menu{
         display: none;
+    }
+
+    .page-content{
+        padding-top: 0;
+    }
+
+    header{
+        background: rgba(0, 0, 0, 0.5);
     }
 }
 

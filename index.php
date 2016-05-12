@@ -8,7 +8,7 @@
 	<div id="fouc">
 		<?php include("nav.php"); ?>
 
-        <div class="site-wrap">
+        <div class="site-wrap index-site">
 			<?php include("header.php"); ?>
 
             <div class="page-content index">
