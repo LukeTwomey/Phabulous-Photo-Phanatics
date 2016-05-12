@@ -59,7 +59,7 @@
 		</div>
 	</div>
 
-
+    <?php include("back-to-top.php"); ?>
     <?php include("javascript-files.php"); ?>
 
 </body>

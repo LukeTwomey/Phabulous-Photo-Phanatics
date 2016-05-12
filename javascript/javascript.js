@@ -1,7 +1,7 @@
 $(document).ready(function () {
 
+    /* show/hide the navigation when the hamburger menu is clicked */
     $(".menu").click(toggleMenu);
-
     var menuOpen = false;
     function toggleMenu(){
         $(".backToTop").toggleClass("slideRightForBackToTop");
@@ -23,8 +23,21 @@ $(document).ready(function () {
         }
     }
 
+    /* show/hide the back to top button as the page is scrolled */
+    $(window).scroll(function() {
+        if($(window).scrollTop() == 0) {
+            $(".back-to-top").fadeOut();
+        }else{
+            $(".back-to-top").fadeIn();
+        }
+    });
 
-
+    /* smooth scroll to top of page when back to top button is pressed */
+    $(".back-to-top").click(function(){
+        $("html, body").animate({
+            scrollTop: 0
+        },500);
+    });
 
     /* To avoid FOUC (flash of unstyled content), js class is being added by the code in head. Remove this class from html element now document is ready */
     $('html').removeClass('js');
