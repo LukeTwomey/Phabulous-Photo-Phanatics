@@ -28,11 +28,11 @@
 **************************************************************/
 
 .SmoothHover(@speed){
-    -o-transition: color @speed ease-in-out, background @speed ease-in-out;
-    -ms-transition: color @speed ease-in-out, background @speed ease-in-out;
-    -moz-transition: color @speed ease-in-out, background @speed ease-in-out;
-    -webkit-transition: color @speed ease-in-out, background @speed ease-in-out;
-    transition: color @speed ease-in-out, background @speed ease-in-out;
+    -o-transition: color @speed ease-in-out, background @speed ease-in-out, opacity @speed ease-in-out;
+    -ms-transition: color @speed ease-in-out, background @speed ease-in-out, opacity @speed ease-in-out;
+    -moz-transition: color @speed ease-in-out, background @speed ease-in-out, opacity @speed ease-in-out;
+    -webkit-transition: color @speed ease-in-out, background @speed ease-in-out, opacity @speed ease-in-out;
+    transition: color @speed ease-in-out, background @speed ease-in-out, opacity @speed ease-in-out;
 }
 
 .Clearfix{
@@ -462,15 +462,24 @@ nav .social li img{
     text-align: center;
 }
 
-.rest-of-page h1{
+.rest-of-page h1,
+.rest-of-page h2{
     color: @blue;
-    font-size: 2.5em;
     margin-bottom: 0.5em;
     text-transform: uppercase;
     letter-spacing: 0.1em;
 }
 
+.rest-of-page h1{
+    font-size: 2.5em;
+}
+
 .rest-of-page h2{
+    line-height: 1.4em;
+    font-size: 2em;
+}
+
+.rest-of-page h3{
     line-height: 1.4em;
     font-size: 1.5em;
 }
@@ -478,6 +487,17 @@ nav .social li img{
 .rest-of-page p{
     line-height: 1.4em;
     font-size: 1.1em;
+}
+
+.image-block{
+    background: #000;
+}
+
+.image-block img{
+    .SmoothHover(0.25s);
+}
+.image-block:hover img{
+    opacity: 0.75;
 }
 
 /**************************************************************
