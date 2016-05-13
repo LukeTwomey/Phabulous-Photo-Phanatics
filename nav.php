@@ -22,6 +22,7 @@
                 <li><a href="portrait.php">Portrait</a></li>
             </ul>
         </li>
+        <li><a href="gallery.php">Gallery</a></li>
         <li><a href="about.php">About</a></li>
         <li><a href="contact.php">Contact</a></li>
     </ul>
