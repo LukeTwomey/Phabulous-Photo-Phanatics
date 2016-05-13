@@ -409,14 +409,21 @@ nav .social li img{
 }
 
 .text-block{
-    background: #33332D;
     background-size: cover;
     background-position: center center;
     float: left;
-    padding: 2em 1em;
+    padding: 2em;
     position: relative;
     text-align: center;
     width: 100%;
+}
+
+.text-block.white{
+    background: #fff;
+}
+
+.text-block.grey{
+    background: @grey;
 }
 
 .text-block.studio{
@@ -431,7 +438,7 @@ nav .social li img{
 .text-block h2,
 .text-block h3,
 .text-block p{
-    margin-bottom: 0;
+    margin-bottom: 1em;
 }
 
 .back-to-top{
@@ -452,7 +459,6 @@ nav .social li img{
     background: white;
     color: @grey;
     font-size: 1rem;
-    padding: 2em;
     text-align: center;
 }
 
