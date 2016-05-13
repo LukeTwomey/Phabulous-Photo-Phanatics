@@ -1,5 +1,17 @@
 $(document).ready(function () {
 
+    /* Change background colour of the header when you scroll away from the top of the page */
+    $(window).scroll(function() {
+        var scrollPos = $(window).scrollTop();
+
+        if (scrollPos > 0) {
+//          $('.header-scroll-background').fadeIn();
+          $('.site-wrap:not(.index-site) .header-scroll-background').fadeIn();
+        } else {
+          $('.header-scroll-background').fadeOut();
+        }
+  	});
+
     /* show/hide the navigation when the hamburger menu is clicked */
     $(".menu").click(toggleMenu);
     var menuOpen = false;

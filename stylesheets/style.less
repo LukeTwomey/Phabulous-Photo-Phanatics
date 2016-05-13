@@ -87,6 +87,9 @@
     overflow-y: hidden;
 }
 
+.transparent{
+    background: transparent!important;
+}
 /**************************************************************
 ******************         GENERAL          *******************
 **************************************************************/
@@ -229,6 +232,14 @@ header{
     transition: 0.35s;
 }
 
+.header-scroll-background{
+    background: rgba(0, 0, 0, 0.5);
+    display: none;
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    z-index: -1;
+}
 
 .logo:link,
 .logo:visited{
