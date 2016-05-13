@@ -20,6 +20,7 @@
                 </li>
                 <li><a href="weddings.php">Weddings</a></li>
                 <li><a href="portrait.php">Portrait</a></li>
+                <li><a href="street.php">Street</a></li>
             </ul>
         </li>
         <li><a href="gallery.php">Gallery</a></li>
