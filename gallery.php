@@ -16,6 +16,7 @@
                 <div class="rest-of-page">
                     <div class="text-block white">
                         <h1>Gallery</h1>
+
                         <p>A selection of our finest work.</p>
                     </div>
                     <div class="gallery-container">
@@ -45,6 +46,9 @@
                                 <img class="grid-item" src="/images/confetti-s.jpg" srcset="/images/confetti-m.jpg 640w, /images/confetti-l.jpg 1200w" alt="Couple getting covered in confetti"/>
                             </a>
                         </div>
+
+                        <p>A selection of our best work.</p>
+
                     </div>
                 </div>
             </div>
