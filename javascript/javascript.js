@@ -144,4 +144,15 @@ $(document).ready(function () {
         }
     }
 
+    /* initialize masonry layout  */
+    var $grid = $('.masonry-block').imagesLoaded( function() {
+      	// init Masonry after all images have loaded
+      	$grid.masonry({
+        	itemSelector: '.grid-item',
+      		columnWidth: '.grid-sizer',
+        	gutter: '.gutter-sizer',
+            percentPosition: true
+      	});
+    });
+
 });
