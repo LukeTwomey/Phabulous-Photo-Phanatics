@@ -23,13 +23,27 @@
                             <div class="grid-sizer"></div>
                             <div class="gutter-sizer"></div>
 
-                            <img class="grid-item" src="/images/rings-s.jpg" srcset="/images/rings-m.jpg 640w, /images/rings-l.jpg 1200w" alt="Ring on hand"/>
-                            <img class="grid-item" src="/images/ribbon-s.jpg" srcset="/images/ribbon-m.jpg 640w, /images/ribbon-l.jpg 1200w" alt="Ribbon on chair"/>
-                            <img class="grid-item" src="/images/flowers-s.jpg" srcset="/images/flowers-m.jpg 640w, /images/flowers-l.jpg 1200w" alt="Flowers"/>
-                            <img class="grid-item" src="/images/groom-s.jpg" srcset="/images/groom-m.jpg 640w, /images/groom-l.jpg 1200w" alt="Groom with flower"/>
-                            <img class="grid-item" src="/images/kiss-s.jpg" srcset="/images/kiss-m.jpg 640w, /images/kiss-l.jpg 1200w" alt="Kiss"/>
-                            <img class="grid-item" src="/images/car-s.jpg" srcset="/images/car-m.jpg 640w, /images/car-l.jpg 1200w" alt="Couple in car"/>
-                            <img class="grid-item" src="/images/confetti-s.jpg" srcset="/images/confetti-m.jpg 640w, /images/confetti-l.jpg 1200w" alt="Couple getting covered in confetti"/>
+                            <a class="fancybox" href="/images/rings-l.jpg">
+                                <img class="grid-item" src="/images/rings-s.jpg" srcset="/images/rings-m.jpg 640w, /images/rings-l.jpg 1200w" alt="Ring on hand"/>
+                            </a>
+                            <a class="fancybox" href="/images/ribbon-l.jpg">
+                                <img class="grid-item" src="/images/ribbon-s.jpg" srcset="/images/ribbon-m.jpg 640w, /images/ribbon-l.jpg 1200w" alt="Ribbon on chair"/>
+                            </a>
+                            <a class="fancybox" href="/images/flowers-l.jpg">
+                                <img class="grid-item" src="/images/flowers-s.jpg" srcset="/images/flowers-m.jpg 640w, /images/flowers-l.jpg 1200w" alt="Flowers"/>
+                            </a>
+                            <a class="fancybox" href="/images/groom-l.jpg">
+                                <img class="grid-item" src="/images/groom-s.jpg" srcset="/images/groom-m.jpg 640w, /images/groom-l.jpg 1200w" alt="Groom with flower"/>
+                            </a>
+                            <a class="fancybox" href="/images/kiss-l.jpg">
+                                <img class="grid-item" src="/images/kiss-s.jpg" srcset="/images/kiss-m.jpg 640w, /images/kiss-l.jpg 1200w" alt="Kiss"/>
+                            </a>
+                            <a class="fancybox" href="/images/car-l.jpg">
+                                <img class="grid-item" src="/images/car-s.jpg" srcset="/images/car-m.jpg 640w, /images/car-l.jpg 1200w" alt="Couple in car"/>
+                            </a>
+                            <a class="fancybox" href="/images/confetti-l.jpg">
+                                <img class="grid-item" src="/images/confetti-s.jpg" srcset="/images/confetti-m.jpg 640w, /images/confetti-l.jpg 1200w" alt="Couple getting covered in confetti"/>
+                            </a>
                         </div>
                     </div>
                 </div>
