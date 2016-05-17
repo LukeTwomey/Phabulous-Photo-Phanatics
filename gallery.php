@@ -100,9 +100,6 @@
                                 <img class="grid-item" src="/images/crossing-s.jpg" srcset="/images/crossing-m.jpg 640w, /images/crossing-l.jpg 1200w" alt="Woman waiting to cross street"/>
                             </a>
                         </div>
-
-                        <p>A selection of our best work.</p>
-
                     </div>
                 </div>
             </div>
