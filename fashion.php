@@ -18,8 +18,8 @@
                     <div class="text-block white">
                         <div class="content">
                             <h1>Fashion</h1>
-                            <h3>Phabulous Photo Phanatics provide our customers with professional, quality photography services</h3>
-                            <p>Our expert photographers will consult with you closely, to ensure the work undertaken meets your exacting standards.</p>
+                            <h3>With extensive experience in the fashion industry, we know what it takes to produce great shots</h3>
+                            <p>Whether you're a seasoned pro, or an aspiring young model, we can tailor our services to suit your requirements.</p>
                         </div>
                     </div>
 
