@@ -17,7 +17,7 @@
 
                     <div class="text-block white">
                         <div class="content">
-                            <h1>Services</h1>
+                            <h1>Fashion</h1>
                             <h3>Phabulous Photo Phanatics provide our customers with professional, quality photography services</h3>
                             <p>Our expert photographers will consult with you closely, to ensure the work undertaken meets your exacting standards.</p>
                         </div>
