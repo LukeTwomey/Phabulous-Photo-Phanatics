@@ -48,7 +48,7 @@
                         </div>
                     </div>
 
-                    <div class="image-block">
+                    <div class="image-block one">
                         <a class="fancybox" href="/images/model-l.jpg">
                             <img src="/images/model-s.jpg" srcset="/images/model-m.jpg 640w, /images/model-l.jpg 1200w" alt="Fashion Model Posing"/>
                         </a>
