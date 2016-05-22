@@ -53,6 +53,13 @@
                             <img src="/images/model-s.jpg" srcset="/images/model-m.jpg 640w, /images/model-l.jpg 1200w" alt="Fashion Model Posing"/>
                         </a>
                     </div>
+
+                    <div class="text-block white">
+                        <div class="content">
+                            <p>From catwalks to modelling shoots, our services are wide and diverse. Employ our photography skills to satisfy your fashion image requirements.</p>
+                            <p>Your images will be made available in the cloud, on digital media, and as a stunning hard copy portfolio album. Use the best. Use Phabulous Photo Phanatics.</p>
+                        </div>
+                    </div>
                 </div>
             </div>
 
