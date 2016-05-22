@@ -17,8 +17,10 @@
                 </div>
 
                 <div class="text-block studio">
-                    <h1><strong><span>Phabulous Photo Phanatics</span></strong><br/> are the premier photography service provider in the UK</h1>
-                    <a href="about.php" class="button">Find Out More</a>
+                    <div class="content">
+                        <h1><strong><span>Phabulous Photo Phanatics</span></strong><br/> are the premier photography service provider in the UK</h1>
+                        <a href="about.php" class="button">Find Out More</a>
+                    </div>
                 </div>
 
                 <div class="fashion tile">
@@ -36,8 +38,10 @@
                 </div>
 
                 <div class="text-block camera">
-                    <h2>Our professional services are trusted by thousands, to deliver high quality, unbeatable results</h2>
-                    <a href="gallery.php" class="button">View Our Work</a>
+                    <div class="content">
+                        <h2>Our professional services are trusted by thousands, to deliver high quality, unbeatable results</h2>
+                        <a href="gallery.php" class="button">View Our Work</a>
+                    </div>
                 </div>
 
                 <div class="portrait tile">
