@@ -41,18 +41,18 @@
                     <div class="text-block white">
                         <div class="content">
                             <blockquote>
-
-                                    <img class="source-image" src="images/jessica.jpg"/>
-                                    <p>Phabulous Photo Phanatics gave me the portfolio I could only have dreamed of. Their industry knowledge was invaluable, and helped me secure a modelling job based on my professional quality portfolio shots.</p>
-
-                                    <cite>Jessica Jones, Surrey</cite>
-
-
+                                <img class="source-image" src="images/jessica.jpg"/>
+                                <p>Phabulous Photo Phanatics gave me the portfolio I could only have dreamed of. Their industry knowledge was invaluable, and helped me secure a modelling job based on my professional quality portfolio shots.</p>
+                                <cite>Jessica Jones, Surrey</cite>
                             </blockquote>
-
                         </div>
                     </div>
 
+                    <div class="image-block">
+                        <a class="fancybox" href="/images/model-l.jpg">
+                            <img src="/images/model-s.jpg" srcset="/images/model-m.jpg 640w, /images/model-l.jpg 1200w" alt="Fashion Model Posing"/>
+                        </a>
+                    </div>
                 </div>
             </div>
 
