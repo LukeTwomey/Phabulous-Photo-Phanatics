@@ -40,7 +40,16 @@
 
                     <div class="text-block white">
                         <div class="content">
-                            <p>text here</p>
+                            <blockquote>
+
+                                    <img class="source-image" src="images/jessica.jpg"/>
+                                    <p>Phabulous Photo Phanatics gave me the portfolio I could only have dreamed of. Their industry knowledge was invaluable, and helped me secure a modelling job based on my professional quality portfolio shots.</p>
+
+                                    <cite>Jessica Jones, Surrey</cite>
+
+
+                            </blockquote>
+
                         </div>
                     </div>
 
