@@ -186,16 +186,17 @@ button,
     background: #DB4105;
     border: none;
     border-radius: 3px;
-    color: #33332D;
+    color: white;
     cursor: pointer;
     display: inline-block;
     font-family: 'Geo Sans light', cursive;
-    font-size: 1.2em;
+    font-size: 1em;
     font-weight: 600;
     margin-top: 1em;
-    padding: 0.3em 1.5em 0.3em 1.5em;
-    text-transform: lowercase;
+    padding: 1em 2em;
+    text-transform: uppercase;
     transition: color 1s ease-in-out, background 0.25s ease-in-out;
+    letter-spacing: 0.1em;
 }
 
 button:hover,
@@ -681,6 +682,11 @@ footer{
         font-size: 1.3rem;
     }
 
+    button,
+    .button{
+        font-size: 1.3em;
+    }
+
     /**************************************************************
     ****************            INDEX              ****************
     **************************************************************/
@@ -698,6 +704,15 @@ footer{
 ****************************************************************************************************************/
 
 @media (min-width: 43.75em) {
+
+    /**************************************************************
+    ****************         PAGE-CONTENT          ****************
+    **************************************************************/
+
+    button,
+    .button{
+        font-size: 1em;
+    }
 
     /**************************************************************
     ******************       PAGE-LAYOUT          *****************
