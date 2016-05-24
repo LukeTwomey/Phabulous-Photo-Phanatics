@@ -24,17 +24,17 @@
                     </div>
 
                     <div class="image-block four">
-                        <a class="fancybox" href="/images/b-and-w-l.jpg">
-                            <img src="/images/b-and-w-s.jpg" srcset="/images/b-and-w-m.jpg 640w, /images/b-and-w-l.jpg 1200w" alt="Fashion Model Posing"/>
+                        <a class="fancybox" href="/images/wedding-1-l.jpg">
+                            <img src="/images/wedding-1-s.jpg" srcset="/images/wedding-1-m.jpg 640w, /images/wedding-1-l.jpg 1200w" alt="Wedding decoration outside"/>
                         </a>
-                        <a class="fancybox" href="/images/b-and-w-2-l.jpg">
-                            <img src="/images/b-and-w-2-s.jpg" srcset="/images/b-and-w-2-m.jpg 640w, /images/b-and-w-2-l.jpg 1200w" alt="Fashion Model Posing"/>
+                        <a class="fancybox" href="/images/wedding-2-l.jpg">
+                            <img src="/images/wedding-2-s.jpg" srcset="/images/wedding-2-m.jpg 640w, /images/wedding-2-l.jpg 1200w" alt="Wedding couple hugging"/>
                         </a>
-                        <a class="fancybox" href="/images/b-and-w-3-l.jpg">
-                            <img src="/images/b-and-w-3-s.jpg" srcset="/images/b-and-w-3-m.jpg 640w, /images/b-and-w-3-l.jpg 1200w" alt="Fashion Model Posing"/>
+                        <a class="fancybox" href="/images/wedding-5-l.jpg">
+                            <img src="/images/wedding-5-s.jpg" srcset="/images/wedding-5-m.jpg 640w, /images/wedding-5-l.jpg 1200w" alt="Bride from behind"/>
                         </a>
-                        <a class="fancybox" href="/images/b-and-w-4-l.jpg">
-                            <img src="/images/b-and-w-4-s.jpg" srcset="/images/b-and-w-4-m.jpg 640w, /images/b-and-w-4-l.jpg 1200w" alt="Fashion Model Posing"/>
+                        <a class="fancybox" href="/images/wedding-3-l.jpg">
+                            <img src="/images/wedding-3-s.jpg" srcset="/images/wedding-3-m.jpg 640w, /images/wedding-3-l.jpg 1200w" alt="Wedding car"/>
                         </a>
                     </div>
 
