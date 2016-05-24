@@ -49,15 +49,16 @@
                     </div>
 
                     <div class="image-block one">
-                        <a class="fancybox" href="/images/model-l.jpg">
-                            <img src="/images/model-s.jpg" srcset="/images/model-m.jpg 640w, /images/model-l.jpg 1200w" alt="Fashion Model Posing"/>
+                        <a class="fancybox" href="/images/rings-flower-l.jpg">
+                            <img src="/images/rings-flower-s.jpg" srcset="/images/rings-flower-m.jpg 640w, /images/rings-flower-l.jpg 1200w" alt="Wedding rings next to a flower"/>
                         </a>
                     </div>
 
                     <div class="text-block white">
                         <div class="content">
-                            <p>From catwalks to modelling shoots, our services are wide and diverse. Employ our photography skills to satisfy your fashion image requirements.</p>
-                            <p>Your images will be made available in the cloud, on digital media, and as a stunning hard copy portfolio album. Use the best. Use Phabulous Photo Phanatics.</p>
+                            <p>We offer services to suit every need. We can cover the ceremony, reception and any other events you require.</p>
+                            <p>All our photographers regularly upload photos taken to the cloud, so you can be reassured there will be no danger of losing any photos of your big day! We can provide digital copies as well as beautiful printed albums for you to cherish for years to come.</p>
+                            <a href="contact.php" class="button">Contact Us</a>
                         </div>
                     </div>
                 </div>
