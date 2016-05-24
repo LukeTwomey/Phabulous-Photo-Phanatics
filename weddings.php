@@ -41,9 +41,9 @@
                     <div class="text-block white">
                         <div class="content">
                             <blockquote>
-                                <img class="source-image" src="images/jessica.jpg"/>
-                                <p>Phabulous Photo Phanatics gave me the portfolio I could only have dreamed of. Their industry knowledge was invaluable, and helped me secure a modelling job based on my professional quality portfolio shots.</p>
-                                <cite>Jessica Jones, Surrey</cite>
+                                <img class="source-image" src="images/charlotte.jpg"/>
+                                <p>I can't tell you how much of a relief it was to know the wedding photos were in safe hands. It was such a weight off my shoulders and allowed me to worry about the other two hundred things I needed to remember!</p>
+                                <cite>Charlotte Baker, Bristol</cite>
                             </blockquote>
                         </div>
                     </div>
