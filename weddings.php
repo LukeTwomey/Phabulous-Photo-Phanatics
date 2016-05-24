@@ -18,8 +18,8 @@
                     <div class="text-block white">
                         <div class="content">
                             <h1>Weddings</h1>
-                            <h3>With extensive experience in the fashion industry, we know what it takes to produce great shots</h3>
-                            <p>Whether you're a seasoned pro, or an aspiring young model, we can tailor our services to suit your requirements.</p>
+                            <h3>Let us take away the worry of the big day. Put your faith in us, and we promise to provide you with amazing memories</h3>
+                            <p>When it comes to weddings, we know what we're doing. Let us take care of the hard work, and be safe in the knowledge that the experts have it under control.</p>
                         </div>
                     </div>
 
