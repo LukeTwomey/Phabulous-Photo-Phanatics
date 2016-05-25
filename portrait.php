@@ -30,8 +30,8 @@
                         <a class="fancybox" href="/images/portrait-2-l.jpg">
                             <img src="/images/portrait-2-s.jpg" srcset="/images/portrait-2-m.jpg 640w, /images/portrait-2-l.jpg 1200w" alt="Portrait man"/>
                         </a>
-                        <a class="fancybox" href="/images/portrait-3-l.jpg">
-                            <img src="/images/portrait-3-s.jpg" srcset="/images/portrait-3-m.jpg 640w, /images/portrait-3-l.jpg 1200w" alt="Portrait woman"/>
+                        <a class="fancybox" href="/images/portrait-5-l.jpg">
+                            <img src="/images/portrait-5-s.jpg" srcset="/images/portrait-5-m.jpg 640w, /images/portrait-5-l.jpg 1200w" alt="Portrait woman"/>
                         </a>
                         <a class="fancybox" href="/images/portrait-4-l.jpg">
                             <img src="/images/portrait-4-s.jpg" srcset="/images/portrait-4-m.jpg 640w, /images/portrait-4-l.jpg 1200w" alt="Portrait woman"/>
