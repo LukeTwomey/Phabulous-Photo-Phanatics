@@ -18,23 +18,23 @@
                     <div class="text-block white">
                         <div class="content">
                             <h1>Street</h1>
-                            <h3>We can help with professional quality portrait images for a multitude of uses</h3>
-                            <p>Whether it's for a contact page for your brand new business website, or a birthday present for your mum, Phabulous Photo Phanatics has you covered.</p>
+                            <h3>We are observers of the streets. Public encounters go unnoticed every day, we record them for viewing pleasure</h3>
+                            <p>Street photography has become hugely popular recently, and if you're a fan you can commission us to capture beautiful moments that would otherwise be lost forever.</p>
                         </div>
                     </div>
 
                     <div class="image-block four">
-                        <a class="fancybox" href="/images/portrait-1-l.jpg">
-                            <img src="/images/portrait-1-s.jpg" srcset="/images/portrait-1-m.jpg 640w, /images/portrait-1-l.jpg 1200w" alt="Portrait woman"/>
+                        <a class="fancybox" href="/images/street-1-l.jpg">
+                            <img src="/images/street-1-s.jpg" srcset="/images/street-1-m.jpg 640w, /images/street-1-l.jpg 1200w" alt="Portrait woman"/>
                         </a>
-                        <a class="fancybox" href="/images/portrait-2-l.jpg">
-                            <img src="/images/portrait-2-s.jpg" srcset="/images/portrait-2-m.jpg 640w, /images/portrait-2-l.jpg 1200w" alt="Portrait man"/>
+                        <a class="fancybox" href="/images/street-2-l.jpg">
+                            <img src="/images/street-2-s.jpg" srcset="/images/street-2-m.jpg 640w, /images/street-2-l.jpg 1200w" alt="Portrait man"/>
                         </a>
-                        <a class="fancybox" href="/images/portrait-5-l.jpg">
-                            <img src="/images/portrait-5-s.jpg" srcset="/images/portrait-5-m.jpg 640w, /images/portrait-5-l.jpg 1200w" alt="Portrait woman"/>
+                        <a class="fancybox" href="/images/street-3-l.jpg">
+                            <img src="/images/street-3-s.jpg" srcset="/images/street-3-m.jpg 640w, /images/street-3-l.jpg 1200w" alt="Portrait woman"/>
                         </a>
-                        <a class="fancybox" href="/images/portrait-4-l.jpg">
-                            <img src="/images/portrait-4-s.jpg" srcset="/images/portrait-4-m.jpg 640w, /images/portrait-4-l.jpg 1200w" alt="Portrait woman"/>
+                        <a class="fancybox" href="/images/street-4-l.jpg">
+                            <img src="/images/street-4-s.jpg" srcset="/images/street-4-m.jpg 640w, /images/street-4-l.jpg 1200w" alt="Portrait woman"/>
                         </a>
                     </div>
 
@@ -49,8 +49,8 @@
                     </div>
 
                     <div class="image-block one">
-                        <a class="fancybox" href="/images/portrait-3-l.jpg">
-                            <img src="/images/portrait-3-s.jpg" srcset="/images/portrait-3-m.jpg 640w, /images/portrait-3-l.jpg 1200w" alt="Portrait woman"/>
+                        <a class="fancybox" href="/images/street-6-l.jpg">
+                            <img src="/images/street-6-s.jpg" srcset="/images/street-6-m.jpg 640w, /images/street-6-l.jpg 1200w" alt="Portrait woman"/>
                         </a>
                     </div>
 
