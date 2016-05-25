@@ -41,9 +41,9 @@
                     <div class="text-block white">
                         <div class="content">
                             <blockquote>
-                                <img class="source-image" src="images/martin.jpg"/>
-                                <p>I needed professional portrait photos taken for my new business website. You guys made it quick and easy, and I'm delighted with the results. Thanks so much!</p>
-                                <cite>Martin Canter, Portsmouth</cite>
+                                <img class="source-image" src="images/jason.jpg"/>
+                                <p>Street photography is the best. I love the realness of it all, no posing, no bull. You guys are the best at what you do, keep producing fantastic art.</p>
+                                <cite>Jason Dale, London</cite>
                             </blockquote>
                         </div>
                     </div>
