@@ -56,8 +56,8 @@
 
                     <div class="text-block white">
                         <div class="content">
-                            <p>We offer services to suit every need. We can cover the ceremony, reception and any other events you require.</p>
-                            <p>All our photographers regularly upload photos taken to the cloud, so you can be reassured there will be no danger of losing any photos of your big day! We can provide digital copies as well as beautiful printed albums for you to cherish for years to come.</p>
+                            <p>We'll travel to you, no need to come to one of our studios. You can opt for a casual type of shoot, or more formal for a business environment.</p>
+                            <p>We're the number one option if you need exceptional quality portrait photos.</p>
                             <a href="contact.php" class="button">Contact Us</a>
                         </div>
                     </div>
