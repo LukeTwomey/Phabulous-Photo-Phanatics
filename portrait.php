@@ -49,8 +49,8 @@
                     </div>
 
                     <div class="image-block one">
-                        <a class="fancybox" href="/images/rings-flower-l.jpg">
-                            <img src="/images/rings-flower-s.jpg" srcset="/images/rings-flower-m.jpg 640w, /images/rings-flower-l.jpg 1200w" alt="Wedding rings next to a flower"/>
+                        <a class="fancybox" href="/images/portrait-3-l.jpg">
+                            <img src="/images/portrait-3-s.jpg" srcset="/images/portrait-3-m.jpg 640w, /images/portrait-3-l.jpg 1200w" alt="Portrait woman"/>
                         </a>
                     </div>
 
