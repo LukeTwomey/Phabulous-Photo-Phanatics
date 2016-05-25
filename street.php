@@ -56,8 +56,8 @@
 
                     <div class="text-block white">
                         <div class="content">
-                            <p>We'll travel to you, no need to come to one of our studios. You can opt for a casual type of shoot, or more formal for a business environment.</p>
-                            <p>We're the number one option if you need exceptional quality portrait photos.</p>
+                            <p>Street photography is very raw, and we know just how to capture it in all its glory.</p>
+                            <p>Employ the pros, and you can get some cool new street photography to adorn the walls of your city studio apartment.</p>
                             <a href="contact.php" class="button">Contact Us</a>
                         </div>
                     </div>
