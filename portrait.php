@@ -18,23 +18,23 @@
                     <div class="text-block white">
                         <div class="content">
                             <h1>Portrait</h1>
-                            <h3>Let us take away the worry of the big day. Put your faith in us, and we promise to provide you with amazing memories</h3>
-                            <p>When it comes to weddings, we know what we're doing. Let us take care of the hard work, and be safe in the knowledge that the experts have it under control.</p>
+                            <h3>We can help with professional quality portrait images for a multitude of uses</h3>
+                            <p>Whether it's for a contact page for your brand new business website, or a birthday present for your mum, Phabulous Photo Phanatics has you covered.</p>
                         </div>
                     </div>
 
                     <div class="image-block four">
-                        <a class="fancybox" href="/images/wedding-1-l.jpg">
-                            <img src="/images/wedding-1-s.jpg" srcset="/images/wedding-1-m.jpg 640w, /images/wedding-1-l.jpg 1200w" alt="Wedding decoration outside"/>
+                        <a class="fancybox" href="/images/portrait-1-l.jpg">
+                            <img src="/images/portrait-1-s.jpg" srcset="/images/portrait-1-m.jpg 640w, /images/portrait-1-l.jpg 1200w" alt="Portrait woman"/>
                         </a>
-                        <a class="fancybox" href="/images/wedding-2-l.jpg">
-                            <img src="/images/wedding-2-s.jpg" srcset="/images/wedding-2-m.jpg 640w, /images/wedding-2-l.jpg 1200w" alt="Wedding couple hugging"/>
+                        <a class="fancybox" href="/images/portrait-2-l.jpg">
+                            <img src="/images/portrait-2-s.jpg" srcset="/images/portrait-2-m.jpg 640w, /images/portrait-2-l.jpg 1200w" alt="Portrait man"/>
                         </a>
-                        <a class="fancybox" href="/images/wedding-5-l.jpg">
-                            <img src="/images/wedding-5-s.jpg" srcset="/images/wedding-5-m.jpg 640w, /images/wedding-5-l.jpg 1200w" alt="Bride from behind"/>
+                        <a class="fancybox" href="/images/portrait-3-l.jpg">
+                            <img src="/images/portrait-3-s.jpg" srcset="/images/portrait-3-m.jpg 640w, /images/portrait-3-l.jpg 1200w" alt="Portrait woman"/>
                         </a>
-                        <a class="fancybox" href="/images/wedding-3-l.jpg">
-                            <img src="/images/wedding-3-s.jpg" srcset="/images/wedding-3-m.jpg 640w, /images/wedding-3-l.jpg 1200w" alt="Wedding car"/>
+                        <a class="fancybox" href="/images/portrait-4-l.jpg">
+                            <img src="/images/portrait-4-s.jpg" srcset="/images/portrait-4-m.jpg 640w, /images/portrait-4-l.jpg 1200w" alt="Portrait woman"/>
                         </a>
                     </div>
 
