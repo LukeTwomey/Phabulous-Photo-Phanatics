@@ -12,12 +12,12 @@
 			<?php include("header.php"); ?>
 
             <div class="page-content portrait">
-                <img class="banner-image" src="/images/weddings-s.jpg" srcset="/images/weddings-m.jpg 640w, /images/weddings-l.jpg 1200w" alt="Close crop of a camera"/>
+                <img class="banner-image" src="/images/portrait-banner-s.jpg" srcset="/images/portrait-banner-m.jpg 640w, /images/portrait-banner-l.jpg 1200w" alt="Close crop of a camera"/>
                 <div class="rest-of-page">
 
                     <div class="text-block white">
                         <div class="content">
-                            <h1>Weddings</h1>
+                            <h1>Portrait</h1>
                             <h3>Let us take away the worry of the big day. Put your faith in us, and we promise to provide you with amazing memories</h3>
                             <p>When it comes to weddings, we know what we're doing. Let us take care of the hard work, and be safe in the knowledge that the experts have it under control.</p>
                         </div>
