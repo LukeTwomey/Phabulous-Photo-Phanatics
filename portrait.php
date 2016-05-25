@@ -41,9 +41,9 @@
                     <div class="text-block white">
                         <div class="content">
                             <blockquote>
-                                <img class="source-image" src="images/charlotte.jpg"/>
-                                <p>I can't tell you how much of a relief it was to know the wedding photos were in safe hands. It was such a weight off my shoulders and allowed me to worry about the other two hundred things I needed to remember!</p>
-                                <cite>Charlotte Baker, Bristol</cite>
+                                <img class="source-image" src="images/martin.jpg"/>
+                                <p>I needed professional portrait photos taken for my new business website. You guys made it quick and easy, and I'm delighted with the results. Thanks so much!</p>
+                                <cite>Martin Canter, Portsmouth</cite>
                             </blockquote>
                         </div>
                     </div>
