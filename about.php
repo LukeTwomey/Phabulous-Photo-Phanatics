@@ -18,8 +18,19 @@
                     <div class="text-block white">
                         <div class="content">
                             <h1>About</h1>
-                            <h3>Phabulous Photo Phanatics provide our customers with professional, quality photography services</h3>
-                            <p>Our expert photographers will consult with you closely, to ensure the work undertaken meets your exacting standards.</p>
+                            <h3>Here at Phabulous Photo Phanatics we have a problem. We're addicted to awesome photography</h3>
+                            <p>We know what looks good, and we know you do too. We guarantee you'll love what we do, because we set our standards sky high.</p>
+                        </div>
+                    </div>
+
+                    <div class="image-text-block">
+                        <div class="content">
+                            <div class="image-part">
+                                <img src="/images/equipment-m.jpg"/>
+                            </div>
+                            <div class="text-part">
+                                <h3>Our state of the art equipment means our results are unbeatable, and our post-processing techniques enhance the quality of our images without making them unrecognisable.</h3>
+                            </div>
                         </div>
                     </div>
 

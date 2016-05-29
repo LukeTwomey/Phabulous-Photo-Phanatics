@@ -550,6 +550,25 @@ cite{
     margin: 0 0 1em 1em;
 }
 
+.image-text-block{
+    background: #fff;
+    padding-bottom: 2em;
+    float: left;
+    width: 100%;
+}
+
+.image-text-block .content{
+    background: #33332D;
+    max-width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.text-part{
+    color: #fff;
+    padding: 2em;
+}
+
 /**************************************************************
 ******************         INDEX           *******************
 **************************************************************/
@@ -722,6 +741,34 @@ footer{
         padding: 3em;
     }
 
+    .image-text-block .content{
+        .Flexbox();
+    }
+
+    .image-text-block .content .image-part img{
+        display: none;
+    }
+
+    .image-text-block .content .image-part,
+    .image-text-block .content .text-part{
+        width: 50%;
+    }
+
+    .image-text-block .text-part h3{
+        margin: 0 auto;
+        max-width: 400px;
+    }
+
+    /**************************************************************
+    ******************         ABOUT          *******************
+    **************************************************************/
+
+    .about .image-text-block .content .image-part{
+        background-image: url(/images/equipment-l.jpg);
+        background-size: cover;
+        background-position: center center;
+    }
+
     /**************************************************************
     ******************         INDEX          *******************
     **************************************************************/
@@ -825,6 +872,10 @@ footer{
 
     .source-image {
         width: 9em;
+    }
+
+    .image-text-block .content .text-part{
+        padding: 4em;
     }
 
     /**************************************************************
