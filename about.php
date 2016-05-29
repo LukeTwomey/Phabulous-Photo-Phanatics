@@ -12,7 +12,7 @@
 			<?php include("header.php"); ?>
 
             <div class="page-content about">
-                <img class="banner-image" src="/images/services-s.jpg" srcset="/images/services-m.jpg 640w, /images/services-l.jpg 1200w" alt="Close crop of a camera"/>
+                <img class="banner-image" src="/images/about-banner-s.jpg" srcset="/images/about-banner-m.jpg 640w, /images/about-banner-l.jpg 1200w" alt="Photographer in stream"/>
                 <div class="rest-of-page">
 
                     <div class="text-block white">
