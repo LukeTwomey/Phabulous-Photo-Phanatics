@@ -515,7 +515,8 @@ nav .social li img{
     padding: 2%;
 }
 
-.image-block.one{
+.image-block.one,
+.image-block.three{
     padding: 4%;
 }
 
@@ -525,6 +526,18 @@ nav .social li img{
     margin-bottom: 4%;
     margin-left: 2%;
     width: 46%;
+}
+
+.image-block.three a:nth-child(2) img{
+    float: left;
+    margin-right: 2%;
+    width: 48%;
+}
+
+.image-block.three a:nth-child(3) img{
+    float: left;
+    margin-left: 2%;
+    width: 48%;
 }
 
 blockquote{
@@ -559,9 +572,7 @@ cite{
 
 .image-text-block .content{
     background: #33332D;
-    max-width: 80%;
-    margin-left: auto;
-    margin-right: auto;
+    margin: 4%;
 }
 
 .text-part{
@@ -759,6 +770,16 @@ footer{
         max-width: 400px;
     }
 
+    .image-block.three a img,
+    .image-block.three a:nth-child(2) img,
+    .image-block.three a:nth-child(3) img{
+        float: left;
+        margin-right: 1%;
+        margin-bottom: 0;
+        margin-left: 1%;
+        width: 31.33%;
+    }
+
     /**************************************************************
     ******************         ABOUT          *******************
     **************************************************************/
@@ -873,6 +894,12 @@ footer{
     .source-image {
         width: 9em;
     }
+
+    .image-text-block .content{
+        margin: 0 auto;
+        max-width: 90%;
+    }
+
 
     .image-text-block .content .text-part{
         padding: 4em;

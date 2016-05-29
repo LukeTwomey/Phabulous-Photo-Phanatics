@@ -41,20 +41,18 @@
                         </div>
                     </div>
 
-                    <div class="service">
-                        <div class="image-block">
-                            <a href="street.php">
-                                <img src="/images/services-street-s.jpg" srcset="/images/services-street-m.jpg 640w, /images/services-street-l.jpg 1200w" alt="Businessmen in New York"/>
-                            </a>
-                        </div>
-                        <div class="text-block white">
-                            <div class="content">
-                                <a href="street.php"><h2>Street</h2></a>
-                                <p>Our street photography captures the essence of a city. Get underneath the skin of the place, and live it through the people who know it best.</p>
-                                <a href="street.php" class="button">Find Out More</a>
-                            </div>
-                        </div>
+                    <div class="image-block three">
+                        <a href="/images/lens-1-l.jpg">
+                            <img src="/images/lens-1-s.jpg" srcset="/images/lens-1-m.jpg 640w, /images/lens-1-l.jpg 1200w" alt="Close up of camera lens"/>
+                        </a>
+                        <a href="/images/lens-2-l.jpg">
+                            <img src="/images/lens-2-s.jpg" srcset="/images/lens-2-m.jpg 640w, /images/lens-2-l.jpg 1200w" alt="Close up of camera lens"/>
+                        </a>
+                        <a href="/images/lens-3-l.jpg">
+                            <img src="/images/lens-3-s.jpg" srcset="/images/lens-3-m.jpg 640w, /images/lens-3-l.jpg 1200w" alt="Close up of camera lens"/>
+                        </a>
                     </div>
+
 
                 </div>
             </div>
