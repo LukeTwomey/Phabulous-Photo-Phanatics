@@ -182,7 +182,8 @@ input {
 }
 
 button,
-.button{
+.button,
+input[type="submit"]{
     background: #DB4105;
     border: none;
     border-radius: 3px;
@@ -200,7 +201,8 @@ button,
 }
 
 button:hover,
-.button:hover{
+.button:hover,
+input[type="submit"]:hover{
     background: @orange-hover;
 }
 
@@ -696,6 +698,60 @@ cite{
     top: 1em;
     right: 1em;
     left: auto;
+}
+
+/**************************************************************
+******************         CONTACT          *******************
+**************************************************************/
+
+.contact-form{
+    background-image: url(/images/sunset-m.jpg);
+    background-position: top;
+    background-size: cover;
+    padding: 2em;
+    width: 100%;
+    float: left;
+}
+
+.contact-form .container{
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+.contact-form input,
+.contact-form textarea{
+    background: rgba(255,255,255,0.8);
+    border: none;
+    border-radius: 3px;
+    color: #000;
+    font-family: @geo;
+    font-size: 1.3em;
+    margin-bottom: 1.5em;
+    padding: 0.75em 1em;
+    width: 100%;
+}
+
+.contact-form input[type="submit"]{
+    background: @orange;
+    color: #fff;
+    margin: 0;
+}
+
+.contact-form input[type="submit"]:hover{
+    background: @orange-hover;
+}
+
+::-webkit-input-placeholder { /* Chrome/Opera/Safari */
+  color: #4f4f4f;
+}
+::-moz-placeholder { /* Firefox 19+ */
+  color: @blue;
+}
+:-ms-input-placeholder { /* IE 10+ */
+  color: @blue;
+}
+:-moz-placeholder { /* Firefox 18- */
+  color: @blue;
 }
 
 /**************************************************************
