@@ -17,9 +17,8 @@
 
                     <div class="text-block white">
                         <div class="content">
-                            <h1>About</h1>
-                            <h3>Here at Phabulous Photo Phanatics we have a problem. We're addicted to awesome photography</h3>
-                            <p>We know what looks good, and we know you do too. We guarantee you'll love what we do, because we set our standards sky high.</p>
+                            <h1>Contact</h1>
+                            <h3>We're here. Hit us up!</h3>
                         </div>
                     </div>
 
