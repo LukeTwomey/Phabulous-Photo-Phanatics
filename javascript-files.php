@@ -5,3 +5,4 @@
 <script src="https://npmcdn.com/masonry-layout@4.0/dist/masonry.pkgd.min.js"></script>
 <!--    <script src="/javascript/jquery.flexslider.js"></script>-->
 <script src="/javascript/javascript.js" type="text/javascript"></script>
+

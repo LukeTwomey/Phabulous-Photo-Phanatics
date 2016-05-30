@@ -112,7 +112,6 @@ $(document).ready(function () {
     if (hasTouch && document.querySelectorAll) {
         var i, len, element,
             dropdowns = document.querySelectorAll("#main-menu li.parent > a");
-        console.log ("hey" + dropdowns.length);
 
         function menuTouch(event) {
             // toggle flag for preventing click for this link
@@ -154,5 +153,14 @@ $(document).ready(function () {
             percentPosition: true
       	});
     });
+
+    /* create google map */
+    function initMap() {
+        var mapDiv = document.getElementById('map');
+        var map = new google.maps.Map(mapDiv, {
+            center: {lat: 44.540, lng: -78.546},
+            zoom: 8
+        });
+    }
 
 });
