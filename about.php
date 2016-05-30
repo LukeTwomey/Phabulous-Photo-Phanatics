@@ -53,7 +53,22 @@
                         </a>
                     </div>
 
+                    <div class="text-block white">
+                        <div class="content">
+                            <p>Over the years our focus has expanded to cover multiple genres, but our overriding philosophy remains the same. We love what we do, and we show that in our work.</p>
+                            <p>Let us handle your photography requirements, and you can rest assured we'll deliver.</p>
+                            <a href="contact.php" class="button">Contact Us</a>
+                        </div>
+                    </div>
 
+                    <div class="tile">
+                        <img src="/images/reflection-s.jpg" srcset="/images/reflection-m.jpg 640w, /images/reflection-l.jpg 1200w" alt="Reflection of photographer taking photo"/>
+                        <h2>Photography is
+                            <br/>a lifestyle.
+                            <br/>We live and
+                            <br/>breathe it.
+                        </h2>
+                    </div>
                 </div>
             </div>
 
