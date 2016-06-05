@@ -12,7 +12,7 @@
 			<?php include("header.php"); ?>
 
             <div class="page-content portrait">
-                <img class="banner-image" src="/images/street-banner-s.jpg" srcset="/images/street-banner-m.jpg 640w, /images/street-banner-l.jpg 1200w" alt="Close crop of a camera"/>
+                <img class="banner-image" src="images/street-banner-s.jpg" srcset="images/street-banner-m.jpg 640w, images/street-banner-l.jpg 1200w" alt="Close crop of a camera"/>
                 <div class="rest-of-page">
 
                     <div class="text-block white">
@@ -24,17 +24,17 @@
                     </div>
 
                     <div class="image-block four">
-                        <a class="fancybox" href="/images/street-1-l.jpg">
-                            <img src="/images/street-1-s.jpg" srcset="/images/street-1-m.jpg 640w, /images/street-1-l.jpg 1200w" alt="Portrait woman"/>
+                        <a class="fancybox" href="images/street-1-l.jpg">
+                            <img src="images/street-1-s.jpg" srcset="images/street-1-m.jpg 640w, images/street-1-l.jpg 1200w" alt="Portrait woman"/>
                         </a>
-                        <a class="fancybox" href="/images/street-2-l.jpg">
-                            <img src="/images/street-2-s.jpg" srcset="/images/street-2-m.jpg 640w, /images/street-2-l.jpg 1200w" alt="Portrait man"/>
+                        <a class="fancybox" href="images/street-2-l.jpg">
+                            <img src="images/street-2-s.jpg" srcset="images/street-2-m.jpg 640w, images/street-2-l.jpg 1200w" alt="Portrait man"/>
                         </a>
-                        <a class="fancybox" href="/images/street-3-l.jpg">
-                            <img src="/images/street-3-s.jpg" srcset="/images/street-3-m.jpg 640w, /images/street-3-l.jpg 1200w" alt="Portrait woman"/>
+                        <a class="fancybox" href="images/street-3-l.jpg">
+                            <img src="images/street-3-s.jpg" srcset="images/street-3-m.jpg 640w, images/street-3-l.jpg 1200w" alt="Portrait woman"/>
                         </a>
-                        <a class="fancybox" href="/images/street-4-l.jpg">
-                            <img src="/images/street-4-s.jpg" srcset="/images/street-4-m.jpg 640w, /images/street-4-l.jpg 1200w" alt="Portrait woman"/>
+                        <a class="fancybox" href="images/street-4-l.jpg">
+                            <img src="images/street-4-s.jpg" srcset="images/street-4-m.jpg 640w, images/street-4-l.jpg 1200w" alt="Portrait woman"/>
                         </a>
                     </div>
 
@@ -49,8 +49,8 @@
                     </div>
 
                     <div class="image-block one">
-                        <a class="fancybox" href="/images/street-6-l.jpg">
-                            <img src="/images/street-6-s.jpg" srcset="/images/street-6-m.jpg 640w, /images/street-6-l.jpg 1200w" alt="Portrait woman"/>
+                        <a class="fancybox" href="images/street-6-l.jpg">
+                            <img src="images/street-6-s.jpg" srcset="images/street-6-m.jpg 640w, images/street-6-l.jpg 1200w" alt="Portrait woman"/>
                         </a>
                     </div>
 

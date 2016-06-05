@@ -12,7 +12,7 @@
 			<?php include("header.php"); ?>
 
             <div class="page-content services">
-                <img class="banner-image" src="/images/services-s.jpg" srcset="/images/services-m.jpg 640w, /images/services-l.jpg 1200w" alt="Close crop of a camera"/>
+                <img class="banner-image" src="images/services-s.jpg" srcset="images/services-m.jpg 640w, images/services-l.jpg 1200w" alt="Close crop of a camera"/>
                 <div class="rest-of-page">
 
                     <div class="text-block white">
@@ -26,7 +26,7 @@
                     <div class="service">
                         <div class="image-block">
                             <a href="fashion.php">
-                                <img src="/images/services-fashion-s.jpg" srcset="/images/services-fashion-m.jpg 640w, /images/services-fashion-l.jpg 1200w" alt="Fashion Model Posing"/>
+                                <img src="images/services-fashion-s.jpg" srcset="images/services-fashion-m.jpg 640w, images/services-fashion-l.jpg 1200w" alt="Fashion Model Posing"/>
                             </a>
                         </div>
                         <div class="text-block white">
@@ -41,7 +41,7 @@
                     <div class="service">
                         <div class="image-block">
                             <a href="weddings.php">
-                                <img src="/images/services-wedding-s.jpg" srcset="/images/services-wedding-m.jpg 640w, /images/services-wedding-l.jpg 1200w" alt="Married Couple"/>
+                                <img src="images/services-wedding-s.jpg" srcset="images/services-wedding-m.jpg 640w, images/services-wedding-l.jpg 1200w" alt="Married Couple"/>
                             </a>
                         </div>
                         <div class="text-block white">
@@ -56,7 +56,7 @@
                     <div class="service">
                         <div class="image-block">
                             <a href="portrait.php">
-                                <img src="/images/services-portrait-s.jpg" srcset="/images/services-portrait-m.jpg 640w, /images/services-portrait-l.jpg 1200w" alt="Man Smoking"/>
+                                <img src="images/services-portrait-s.jpg" srcset="images/services-portrait-m.jpg 640w, images/services-portrait-l.jpg 1200w" alt="Man Smoking"/>
                             </a>
                         </div>
                         <div class="text-block white">
@@ -71,7 +71,7 @@
                     <div class="service">
                         <div class="image-block">
                             <a href="street.php">
-                                <img src="/images/services-street-s.jpg" srcset="/images/services-street-m.jpg 640w, /images/services-street-l.jpg 1200w" alt="Businessmen in New York"/>
+                                <img src="images/services-street-s.jpg" srcset="images/services-street-m.jpg 640w, images/services-street-l.jpg 1200w" alt="Businessmen in New York"/>
                             </a>
                         </div>
                         <div class="text-block white">

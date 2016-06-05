@@ -12,7 +12,7 @@
 			<?php include("header.php"); ?>
 
             <div class="page-content contact">
-                <img class="banner-image" src="/images/contact-s.jpg" srcset="/images/contact-m.jpg 640w, /images/contact-l.jpg 1200w" alt="Two photographers lying on train track"/>
+                <img class="banner-image" src="images/contact-s.jpg" srcset="images/contact-m.jpg 640w, images/contact-l.jpg 1200w" alt="Two photographers lying on train track"/>
                 <div class="rest-of-page">
 
                     <div class="text-block white">
@@ -28,13 +28,13 @@
                         <ul>
                             <li>
                                 <ul>
-                                    <li><a href="tel:071234567890"><img src="/images/icons/telephone-blue.png"/></a></li>
+                                    <li><a href="tel:071234567890"><img src="images/icons/telephone-blue.png"/></a></li>
                                     <li><a href="tel:071234567890">07123 456 7890</a></li>
                                 </ul>
                             </li>
                             <li>
                                 <ul>
-                                    <li><img src="/images/icons/location-blue.png"/></li>
+                                    <li><img src="images/icons/location-blue.png"/></li>
                                     <li><p>1 Pressmyshutter Lane<br/>
                                         East Fuji<br/>
                                         United Kingdom<br/>

@@ -18,5 +18,5 @@
 <script src="//cdnjs.cloudflare.com/ajax/libs/less.js/2.5.0/less.min.js"></script>
 -->
 
-<link rel="stylesheet" href="/stylesheets/style.css" type="text/css" />
+<link rel="stylesheet" href="stylesheets/style.css" type="text/css" />
 

@@ -12,7 +12,7 @@
 			<?php include("header.php"); ?>
 
             <div class="page-content about">
-                <img class="banner-image" src="/images/about-banner-s.jpg" srcset="/images/about-banner-m.jpg 640w, /images/about-banner-l.jpg 1200w" alt="Photographer in stream"/>
+                <img class="banner-image" src="images/about-banner-s.jpg" srcset="images/about-banner-m.jpg 640w, images/about-banner-l.jpg 1200w" alt="Photographer in stream"/>
                 <div class="rest-of-page">
 
                     <div class="text-block white">
@@ -26,7 +26,7 @@
                     <div class="image-text-block">
                         <div class="content">
                             <div class="image-part">
-                                <img src="/images/equipment-m.jpg"/>
+                                <img src="images/equipment-m.jpg"/>
                             </div>
                             <div class="text-part">
                                 <h3>Our state of the art equipment means our results are unbeatable, and our post-processing techniques enhance the quality of our images without making them unrecognisable.</h3>
@@ -42,14 +42,14 @@
                     </div>
 
                     <div class="image-block three">
-                        <a class="fancybox" href="/images/lens-1-l.jpg">
-                            <img src="/images/lens-1-s.jpg" srcset="/images/lens-1-m.jpg 640w, /images/lens-1-l.jpg 1200w" alt="Close up of camera lens"/>
+                        <a class="fancybox" href="images/lens-1-l.jpg">
+                            <img src="images/lens-1-s.jpg" srcset="images/lens-1-m.jpg 640w, images/lens-1-l.jpg 1200w" alt="Close up of camera lens"/>
                         </a>
-                        <a class="fancybox" href="/images/lens-2-l.jpg">
-                            <img src="/images/lens-2-s.jpg" srcset="/images/lens-2-m.jpg 640w, /images/lens-2-l.jpg 1200w" alt="Close up of camera lens"/>
+                        <a class="fancybox" href="images/lens-2-l.jpg">
+                            <img src="images/lens-2-s.jpg" srcset="images/lens-2-m.jpg 640w, images/lens-2-l.jpg 1200w" alt="Close up of camera lens"/>
                         </a>
-                        <a class="fancybox" href="/images/lens-3-l.jpg">
-                            <img src="/images/lens-3-s.jpg" srcset="/images/lens-3-m.jpg 640w, /images/lens-3-l.jpg 1200w" alt="Close up of camera lens"/>
+                        <a class="fancybox" href="images/lens-3-l.jpg">
+                            <img src="images/lens-3-s.jpg" srcset="images/lens-3-m.jpg 640w, images/lens-3-l.jpg 1200w" alt="Close up of camera lens"/>
                         </a>
                     </div>
 
@@ -62,7 +62,7 @@
                     </div>
 
                     <div class="tile">
-                        <img src="/images/reflection-s.jpg" srcset="/images/reflection-m.jpg 640w, /images/reflection-l.jpg 1200w" alt="Reflection of photographer taking photo"/>
+                        <img src="images/reflection-s.jpg" srcset="images/reflection-m.jpg 640w, images/reflection-l.jpg 1200w" alt="Reflection of photographer taking photo"/>
                         <h2>Photography is
                             <br/>a lifestyle.
                             <br/>We live and

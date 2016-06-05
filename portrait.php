@@ -12,7 +12,7 @@
 			<?php include("header.php"); ?>
 
             <div class="page-content portrait">
-                <img class="banner-image" src="/images/portrait-banner-s.jpg" srcset="/images/portrait-banner-m.jpg 640w, /images/portrait-banner-l.jpg 1200w" alt="Close crop of a camera"/>
+                <img class="banner-image" src="images/portrait-banner-s.jpg" srcset="images/portrait-banner-m.jpg 640w, images/portrait-banner-l.jpg 1200w" alt="Close crop of a camera"/>
                 <div class="rest-of-page">
 
                     <div class="text-block white">
@@ -24,17 +24,17 @@
                     </div>
 
                     <div class="image-block four">
-                        <a class="fancybox" href="/images/portrait-1-l.jpg">
-                            <img src="/images/portrait-1-s.jpg" srcset="/images/portrait-1-m.jpg 640w, /images/portrait-1-l.jpg 1200w" alt="Portrait woman"/>
+                        <a class="fancybox" href="images/portrait-1-l.jpg">
+                            <img src="images/portrait-1-s.jpg" srcset="images/portrait-1-m.jpg 640w, images/portrait-1-l.jpg 1200w" alt="Portrait woman"/>
                         </a>
-                        <a class="fancybox" href="/images/portrait-2-l.jpg">
-                            <img src="/images/portrait-2-s.jpg" srcset="/images/portrait-2-m.jpg 640w, /images/portrait-2-l.jpg 1200w" alt="Portrait man"/>
+                        <a class="fancybox" href="images/portrait-2-l.jpg">
+                            <img src="images/portrait-2-s.jpg" srcset="images/portrait-2-m.jpg 640w, images/portrait-2-l.jpg 1200w" alt="Portrait man"/>
                         </a>
-                        <a class="fancybox" href="/images/portrait-5-l.jpg">
-                            <img src="/images/portrait-5-s.jpg" srcset="/images/portrait-5-m.jpg 640w, /images/portrait-5-l.jpg 1200w" alt="Portrait woman"/>
+                        <a class="fancybox" href="images/portrait-5-l.jpg">
+                            <img src="images/portrait-5-s.jpg" srcset="images/portrait-5-m.jpg 640w, images/portrait-5-l.jpg 1200w" alt="Portrait woman"/>
                         </a>
-                        <a class="fancybox" href="/images/portrait-4-l.jpg">
-                            <img src="/images/portrait-4-s.jpg" srcset="/images/portrait-4-m.jpg 640w, /images/portrait-4-l.jpg 1200w" alt="Portrait woman"/>
+                        <a class="fancybox" href="images/portrait-4-l.jpg">
+                            <img src="images/portrait-4-s.jpg" srcset="images/portrait-4-m.jpg 640w, images/portrait-4-l.jpg 1200w" alt="Portrait woman"/>
                         </a>
                     </div>
 
@@ -49,8 +49,8 @@
                     </div>
 
                     <div class="image-block one">
-                        <a class="fancybox" href="/images/portrait-3-l.jpg">
-                            <img src="/images/portrait-3-s.jpg" srcset="/images/portrait-3-m.jpg 640w, /images/portrait-3-l.jpg 1200w" alt="Portrait woman"/>
+                        <a class="fancybox" href="images/portrait-3-l.jpg">
+                            <img src="images/portrait-3-s.jpg" srcset="images/portrait-3-m.jpg 640w, images/portrait-3-l.jpg 1200w" alt="Portrait woman"/>
                         </a>
                     </div>
 

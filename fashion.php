@@ -12,7 +12,7 @@
 			<?php include("header.php"); ?>
 
             <div class="page-content fashion">
-                <img class="banner-image" src="/images/fashion-s.jpg" srcset="/images/fashion-m.jpg 640w, /images/fashion-l.jpg 1200w" alt="Close crop of a camera"/>
+                <img class="banner-image" src="images/fashion-s.jpg" srcset="images/fashion-m.jpg 640w, images/fashion-l.jpg 1200w" alt="Close crop of a camera"/>
                 <div class="rest-of-page">
 
                     <div class="text-block white">
@@ -24,17 +24,17 @@
                     </div>
 
                     <div class="image-block four">
-                        <a class="fancybox" href="/images/b-and-w-l.jpg">
-                            <img src="/images/b-and-w-s.jpg" srcset="/images/b-and-w-m.jpg 640w, /images/b-and-w-l.jpg 1200w" alt="Fashion Model Posing"/>
+                        <a class="fancybox" href="images/b-and-w-l.jpg">
+                            <img src="images/b-and-w-s.jpg" srcset="images/b-and-w-m.jpg 640w, images/b-and-w-l.jpg 1200w" alt="Fashion Model Posing"/>
                         </a>
-                        <a class="fancybox" href="/images/b-and-w-2-l.jpg">
-                            <img src="/images/b-and-w-2-s.jpg" srcset="/images/b-and-w-2-m.jpg 640w, /images/b-and-w-2-l.jpg 1200w" alt="Fashion Model Posing"/>
+                        <a class="fancybox" href="images/b-and-w-2-l.jpg">
+                            <img src="images/b-and-w-2-s.jpg" srcset="images/b-and-w-2-m.jpg 640w, images/b-and-w-2-l.jpg 1200w" alt="Fashion Model Posing"/>
                         </a>
-                        <a class="fancybox" href="/images/b-and-w-3-l.jpg">
-                            <img src="/images/b-and-w-3-s.jpg" srcset="/images/b-and-w-3-m.jpg 640w, /images/b-and-w-3-l.jpg 1200w" alt="Fashion Model Posing"/>
+                        <a class="fancybox" href="images/b-and-w-3-l.jpg">
+                            <img src="images/b-and-w-3-s.jpg" srcset="images/b-and-w-3-m.jpg 640w, images/b-and-w-3-l.jpg 1200w" alt="Fashion Model Posing"/>
                         </a>
-                        <a class="fancybox" href="/images/b-and-w-4-l.jpg">
-                            <img src="/images/b-and-w-4-s.jpg" srcset="/images/b-and-w-4-m.jpg 640w, /images/b-and-w-4-l.jpg 1200w" alt="Fashion Model Posing"/>
+                        <a class="fancybox" href="images/b-and-w-4-l.jpg">
+                            <img src="images/b-and-w-4-s.jpg" srcset="images/b-and-w-4-m.jpg 640w, images/b-and-w-4-l.jpg 1200w" alt="Fashion Model Posing"/>
                         </a>
                     </div>
 
@@ -49,8 +49,8 @@
                     </div>
 
                     <div class="image-block one">
-                        <a class="fancybox" href="/images/model-l.jpg">
-                            <img src="/images/model-s.jpg" srcset="/images/model-m.jpg 640w, /images/model-l.jpg 1200w" alt="Fashion Model Posing"/>
+                        <a class="fancybox" href="images/model-l.jpg">
+                            <img src="images/model-s.jpg" srcset="images/model-m.jpg 640w, images/model-l.jpg 1200w" alt="Fashion Model Posing"/>
                         </a>
                     </div>
 

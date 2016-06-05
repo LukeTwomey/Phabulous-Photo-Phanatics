@@ -12,7 +12,7 @@
 			<?php include("header.php"); ?>
 
             <div class="page-content weddings">
-                <img class="banner-image" src="/images/weddings-s.jpg" srcset="/images/weddings-m.jpg 640w, /images/weddings-l.jpg 1200w" alt="Close crop of a camera"/>
+                <img class="banner-image" src="images/weddings-s.jpg" srcset="images/weddings-m.jpg 640w, images/weddings-l.jpg 1200w" alt="Close crop of a camera"/>
                 <div class="rest-of-page">
 
                     <div class="text-block white">
@@ -24,17 +24,17 @@
                     </div>
 
                     <div class="image-block four">
-                        <a class="fancybox" href="/images/wedding-1-l.jpg">
-                            <img src="/images/wedding-1-s.jpg" srcset="/images/wedding-1-m.jpg 640w, /images/wedding-1-l.jpg 1200w" alt="Wedding decoration outside"/>
+                        <a class="fancybox" href="images/wedding-1-l.jpg">
+                            <img src="images/wedding-1-s.jpg" srcset="images/wedding-1-m.jpg 640w, images/wedding-1-l.jpg 1200w" alt="Wedding decoration outside"/>
                         </a>
-                        <a class="fancybox" href="/images/wedding-2-l.jpg">
-                            <img src="/images/wedding-2-s.jpg" srcset="/images/wedding-2-m.jpg 640w, /images/wedding-2-l.jpg 1200w" alt="Wedding couple hugging"/>
+                        <a class="fancybox" href="images/wedding-2-l.jpg">
+                            <img src="images/wedding-2-s.jpg" srcset="images/wedding-2-m.jpg 640w, images/wedding-2-l.jpg 1200w" alt="Wedding couple hugging"/>
                         </a>
-                        <a class="fancybox" href="/images/wedding-5-l.jpg">
-                            <img src="/images/wedding-5-s.jpg" srcset="/images/wedding-5-m.jpg 640w, /images/wedding-5-l.jpg 1200w" alt="Bride from behind"/>
+                        <a class="fancybox" href="images/wedding-5-l.jpg">
+                            <img src="images/wedding-5-s.jpg" srcset="images/wedding-5-m.jpg 640w, images/wedding-5-l.jpg 1200w" alt="Bride from behind"/>
                         </a>
-                        <a class="fancybox" href="/images/wedding-3-l.jpg">
-                            <img src="/images/wedding-3-s.jpg" srcset="/images/wedding-3-m.jpg 640w, /images/wedding-3-l.jpg 1200w" alt="Wedding car"/>
+                        <a class="fancybox" href="images/wedding-3-l.jpg">
+                            <img src="images/wedding-3-s.jpg" srcset="images/wedding-3-m.jpg 640w, images/wedding-3-l.jpg 1200w" alt="Wedding car"/>
                         </a>
                     </div>
 
@@ -49,8 +49,8 @@
                     </div>
 
                     <div class="image-block one">
-                        <a class="fancybox" href="/images/rings-flower-l.jpg">
-                            <img src="/images/rings-flower-s.jpg" srcset="/images/rings-flower-m.jpg 640w, /images/rings-flower-l.jpg 1200w" alt="Wedding rings next to a flower"/>
+                        <a class="fancybox" href="images/rings-flower-l.jpg">
+                            <img src="images/rings-flower-s.jpg" srcset="images/rings-flower-m.jpg 640w, images/rings-flower-l.jpg 1200w" alt="Wedding rings next to a flower"/>
                         </a>
                     </div>
 
