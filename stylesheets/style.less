@@ -776,9 +776,34 @@ cite{
 }
 
 .contact-details > ul > li{
-    display: inline-block;
+    display: block;
+    font-size: 1.3em;
+    letter-spacing: 0.05em;
+    margin-bottom: 1em;
+    font-weight: 600;
 }
 
+.contact-details > ul li a:link,
+.contact-details > ul li a:visited,
+.contact-details > ul li a:active{
+    color: @grey;
+}
+
+.contact-details > ul li a:hover{
+    color: @grey-hover;
+}
+
+.contact-details > ul li img{
+    max-width: 100px;
+    display: inline;
+}
+
+.contact .social{
+    background: #fff;
+    float: left;
+    padding: 2em 0;
+    width: 100%;
+}
 .contact .social li{
     list-style: none;
     padding: 1em;
@@ -789,6 +814,10 @@ cite{
     display: inline-block;
     margin: 0 0.2em;
     width: 60px;
+}
+
+.contact-details > ul > li > ul > li p{
+    margin-bottom: 0;
 }
 
 /**************************************************************
@@ -832,6 +861,18 @@ footer{
     .tile h2{
         font-size: 1.5em;
     }
+
+
+
+
+//    .contact-details > ul > li{
+//    display: inline-block;
+//    font-size: 1.3em;
+//    letter-spacing: 0.05em;
+//    font-weight: 600;
+//}
+//
+//
 
 }
 
@@ -1057,6 +1098,21 @@ footer{
 
     .gutter-sizer{
         width: 3%;
+    }
+
+    /**************************************************************
+    ******************         CONTACT           ******************
+    **************************************************************/
+
+    .contact-details > ul > li > ul > li{
+        display: inline-block;
+        vertical-align: middle;
+    }
+
+    .contact-details > ul li img{
+        max-width: 150px;
+        display: inline;
+        margin-right: 3em;
     }
 
 }

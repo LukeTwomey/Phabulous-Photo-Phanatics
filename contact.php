@@ -20,39 +20,26 @@
                             <h1>Contact</h1>
                             <h3>If you'd like to discuss a job or simply have an informal chat, we're a shutter click away.</h3>
 
-                             <ul class="social">
-                                <li>
-                                    <a href="https://twitter.com/LukeDTwomey"><img src="images/icons/twitter-blue.png"/></a>
-                                    <a href="https://www.facebook.com/LukeDTwomey"><img src="images/icons/facebook-blue.png"/></a>
-                                    <a href="https://www.instagram.com/?hl=en"><img src="images/icons/instagram-blue.png"/></a>
-                                </li>
-                            </ul>
+
                         </div>
                     </div>
-
-
 
                     <div class="contact-details">
                         <ul>
                             <li>
                                 <ul>
-                                    <li>Twitter</li>
-                                    <li>Facebook</li>
-                                    <li>Instagram</li>
+                                    <li><a href="tel:071234567890"><img src="/images/icons/telephone-blue.png"/></a></li>
+                                    <li><a href="tel:071234567890">07123 456 7890</a></li>
                                 </ul>
                             </li>
                             <li>
                                 <ul>
-                                    <li>Twitter</li>
-                                    <li>Facebook</li>
-                                    <li>Instagram</li>
-                                </ul>
-                            </li>
-                            <li>
-                                <ul>
-                                    <li>Twitter</li>
-                                    <li>Facebook</li>
-                                    <li>Instagram</li>
+                                    <li><img src="/images/icons/location-blue.png"/></li>
+                                    <li><p>1 Pressmyshutter Lane<br/>
+                                        East Fuji<br/>
+                                        United Kingdom<br/>
+                                        KP4 7HI</p>
+                                    </li>
                                 </ul>
                             </li>
                         </ul>
@@ -60,6 +47,14 @@
 
                     <div id="map">
                     </div>
+
+                    <ul class="social">
+                        <li>
+                            <a href="https://twitter.com/LukeDTwomey"><img src="images/icons/twitter-blue.png"/></a>
+                            <a href="https://www.facebook.com/LukeDTwomey"><img src="images/icons/facebook-blue.png"/></a>
+                            <a href="https://www.instagram.com/?hl=en"><img src="images/icons/instagram-blue.png"/></a>
+                        </li>
+                    </ul>
 
                     <form class="contact-form" method="post" name="contactForm">
                         <div class="container">
@@ -70,9 +65,6 @@
                             <input type="submit" value="Send"/>
                         </div>
                     </form>
-
-
-
                 </div>
             </div>
 
