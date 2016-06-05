@@ -19,8 +19,18 @@
                         <div class="content">
                             <h1>Contact</h1>
                             <h3>If you'd like to discuss a job or simply have an informal chat, we're a shutter click away.</h3>
+
+                             <ul class="social">
+                                <li>
+                                    <a href="https://twitter.com/LukeDTwomey"><img src="images/icons/twitter-blue.png"/></a>
+                                    <a href="https://www.facebook.com/LukeDTwomey"><img src="images/icons/facebook-blue.png"/></a>
+                                    <a href="https://www.instagram.com/?hl=en"><img src="images/icons/instagram-blue.png"/></a>
+                                </li>
+                            </ul>
                         </div>
                     </div>
+
+
 
                     <div class="contact-details">
                         <ul>
