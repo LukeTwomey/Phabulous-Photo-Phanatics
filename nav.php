@@ -9,7 +9,7 @@
     </ul>
 
     <ul>
-        <li><a href="/">Home</a></li>
+        <li><a href="index.php">Home</a></li>
         <li class="parent">
             <a href="services.php">Services</a>
             <button class="open-submenu">&#8250;</button>
