@@ -704,6 +704,10 @@ cite{
 ******************         CONTACT          *******************
 **************************************************************/
 
+.contact .text-block{
+    padding-bottom: 0;
+}
+
 .contact-form{
     background-image: url(/images/sunset-m.jpg);
     background-position: top;
@@ -756,8 +760,23 @@ cite{
 
 #map{
     float: left;
-    height: 400px;
+    height: 200px;
     width: 100%;
+}
+
+.contact-details{
+    background: #fff;
+    float: left;
+    padding-bottom: 2em;
+    width: 100%;
+}
+
+.contact-details ul{
+    list-style: none;
+}
+
+.contact-details > ul > li{
+    display: inline-block;
 }
 
 /**************************************************************
@@ -919,6 +938,13 @@ footer{
         width: 3%;
     }
 
+    /**************************************************************
+    ******************         CONTACT           ******************
+    **************************************************************/
+
+    #map{
+        height: 400px;
+    }
 }
 
 /****************************************************************************************************************
