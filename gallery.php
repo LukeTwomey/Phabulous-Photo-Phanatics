@@ -16,8 +16,6 @@
                 <div class="rest-of-page">
                     <div class="text-block white">
                         <h1>Gallery</h1>
-
-                        <p>A selection of our finest work.</p>
                     </div>
                     <div class="gallery-container">
                         <div class="masonry-block">
